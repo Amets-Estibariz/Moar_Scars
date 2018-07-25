@@ -1,0 +1,60 @@
+{"elements":
+[
+		{id: "follower_scar_edge",
+		label:"Scar: Brutal Experience",
+		description:"FAUSTUS: I think Hell's a fable. MEPHISTOPHILIS: Ay, think so still, till experience change thy mind. [Three Scars of the same type will kill a follower.]",
+		isAspect:true,
+		{xtriggers:{killmortal:corpse_scar}}
+		},
+		
+				{id: "follower_scar_knock",
+		label:"Scar: Half-Healed Fistula",
+		description:"Not all doors are wounds; but all wounds are doors. [Three Scars of the same type will kill a follower.]",
+		isAspect:true,
+		{xtriggers:{killmortal:corpse_scar}}
+		},
+				{id: "follower_scar_winter",
+		label:"Scar: Old Wound",
+		description:"Step closer to the sunset, and see the first stars of night. [Three Scars of the same type will kill a follower.]",
+		isAspect:true,
+		{xtriggers:{killmortal:corpse_scar}}
+		},
+		
+		
+		
+		
+		{id: "follower_scar_lantern",
+		label:"Scar: Fear of God",
+		description:"'Behold, the fear of the Lord, that is wisdom; And to depart from evil is understanding.' - The Book of Job, 28:28  [Three Scars of the same type will kill a follower.]",
+		isAspect:true,
+		{xtriggers:{killmortal:corpse_scar}}
+		},
+				{id: "follower_scar_moth",
+		label:"Scar: Resignation",
+		description:"'Man doth not yield himself to the angels, nor unto death utterly, save only through the weakness of his feeble will.' — Joseph Glanvill. [Three Scars of the same type will kill a follower.]",
+		isAspect:true,
+		{xtriggers:{killmortal:corpse_scar}}
+		},
+				{id: "follower_scar_forge",
+		label:"Scar: Seared Skin",
+		description:"Fire knows us by our marks. [Three Scars of the same type will kill a follower.]",
+		isAspect:true,
+		{xtriggers:{killmortal:corpse_scar}}
+		},
+				{id: "follower_scar_heart",
+		label:"Scar: Wild Heartbeat",
+		description:"The heart is blood's drum, but no drum can weather this rhythm, not forever. [Three Scars of the same type will kill a follower.]",
+		isAspect:true,
+		{xtriggers:{killmortal:corpse_scar}}
+		},
+				{id: "follower_scar_grail",
+		label:"Scar: Fresh Scabs",
+		description:"Blood flows in rivers, and each wound is a source. [Three Scars of the same type will kill a follower.]",
+		isAspect:true,
+		{xtriggers:{killmortal:corpse_scar}}
+		},
+		
+		
+		
+]
+}
