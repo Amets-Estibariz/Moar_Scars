@@ -106,7 +106,6 @@ alternativerecipes:[
 {id:"followeraction_auguryhighlantern",chance:100},
 {id:"followeraction_hoodwinkhighmoth",chance:100},
 {id:"followeraction_abducthighedge",chance:100},
-{id:"followeraction_divisionhighhydrae",chance:100},
 
 {id:"followeraction_murdermidwinter",chance:100},
 {id:"followeraction_craftworkmidforge",chance:100},
@@ -116,7 +115,6 @@ alternativerecipes:[
 {id:"followeraction_augurymidlantern",chance:100},
 {id:"followeraction_hoodwinkmidmoth",chance:100},
 {id:"followeraction_abductmidedge",chance:100},
-{id:"followeraction_divisionmidhydrae",chance:100},
 
 {id:"followeraction_murderlowwinter",chance:100},
 {id:"followeraction_craftworklowforge",chance:100},
@@ -126,7 +124,6 @@ alternativerecipes:[
 {id:"followeraction_augurylowlantern",chance:100},
 {id:"followeraction_hoodwinklowmoth",chance:100},
 {id:"followeraction_abductlowedge",chance:100},
-{id:"followeraction_divisionlowhydrae",chance:100},
 
 {id:"hunterattackhighedge",chance:100},
 {id:"hunterattackmidedge",chance:100},
